@@ -1,0 +1,3 @@
+tweepy
+pymongo
+urllib3[secure]
