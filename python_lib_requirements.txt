@@ -1,0 +1,4 @@
+tweepy (twitter streaming library)
+dateutil library (python)
+json library (python)
+MySQLdb library (python)
