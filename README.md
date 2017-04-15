@@ -10,9 +10,9 @@ the create.sql file needs to be run after creating the database "testdb" and cre
 steps to use:-
 
 1) create a New MySQL User and Database
-create database testdb;
-create user 'testuser'@'localhost' identified by 'password';
-grant all on testdb.* to 'testuser';
+    create database testdb;
+    create user 'testuser'@'localhost' identified by 'password';
+    grant all on testdb.* to 'testuser';
 
 2) login using testuser
 mysql -u testuser -p
